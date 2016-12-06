@@ -1,0 +1,3 @@
+base:
+    '*':
+        - dev_box
