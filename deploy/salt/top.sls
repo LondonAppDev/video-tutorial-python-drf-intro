@@ -1,4 +1,4 @@
 base:
     '*':
-        - mariadb
         - python_dev
+        - python_dev.vagrant

@@ -7,5 +7,4 @@ fileserver_backend:
 gitfs_base: develop
 
 gitfs_remotes:
-    - https://github.com/LondonAppDev/lad-deploy-mariadb-fomula.git
     - https://github.com/LondonAppDev/lad-deploy-python-formula.git
